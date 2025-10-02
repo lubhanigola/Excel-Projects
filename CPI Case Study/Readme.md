@@ -37,4 +37,4 @@ It includes **missing value imputation, category aggregation, percentage change 
 ---
 
 ### 🔗 Repository Link
-- [Download Excel File](https://github.com/lubhanigola/CPI-Inflation---Case-Study/raw/main/CPI%20Inflation.xlsx)
+- [Download Excel File](https://github.com/lubhanigola/Excel-Projects/raw/main/CPI%20Case%20Study/CPI%20Inflation.xlsx)
